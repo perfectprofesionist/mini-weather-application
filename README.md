@@ -20,9 +20,10 @@ This PHP application allows users to retrieve weather forecast data for a specif
 
 ## Installation
 
-1. Clone or download the `index.php` file to your web server directory.
-2. Replace `'YOUR_OPENWEATHERMAP_API_KEY'` in the `index.php` file with your actual OpenWeatherMap API key.
-3. Ensure that your web server has access to the internet to make API requests to OpenWeatherMap.
+1. Clone or download the files to your web server directory.
+2. Rename `.env-example` file to `.env`
+3. Replace `'YOUR_OPENWEATHERMAP_API_KEY'` in the `.env` file with your actual OpenWeatherMap API key.
+4. Ensure that your web server has access to the internet to make API requests to OpenWeatherMap.
 
 ## Usage
 
