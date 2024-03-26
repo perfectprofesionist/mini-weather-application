@@ -4,6 +4,7 @@
 This PHP application allows users to retrieve weather forecast data for a specific city using the OpenWeatherMap API. Users can choose between fetching the current weather or a 5-day forecast.
 
 ![Screenshot of APP](https://github.com/perfectprofesionist/mini-weather-application/blob/main/assets/img/screenshots/screencapture-2.png)
+![Screenshot of APP](https://github.com/perfectprofesionist/mini-weather-application/blob/main/assets/img/screenshots/screencapture-3.png)
 
 ## Features
 
@@ -17,6 +18,7 @@ This PHP application allows users to retrieve weather forecast data for a specif
 - PHP 7 or later
 - Internet connection to access the OpenWeatherMap API
 - OpenWeatherMap API key (sign up at https://home.openweathermap.org/users/sign_up)
+
 
 ## Installation
 
