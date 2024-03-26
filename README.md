@@ -6,7 +6,7 @@ This PHP application allows users to retrieve weather forecast data for a specif
 ![Screenshot of APP](https://github.com/perfectprofesionist/mini-weather-application/blob/main/assets/img/screenshots/screencapture-2.png)
 ------
 ![Screenshot of APP](https://github.com/perfectprofesionist/mini-weather-application/blob/main/assets/img/screenshots/screencapture-3.png)
-------
+
 ## Features
 
 - Fetch current weather data including temperature, description, humidity, and wind speed.
